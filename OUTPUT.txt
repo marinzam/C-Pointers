@@ -1,0 +1,21 @@
+OUTPUT
+Lab 16 C Pointers
+
+Author: Geraldine Marin-Zamora
+b
+c
+Hello, Geraldine
+d
+e
+IntArray:
+0
+1
+4
+9
+16
+25
+36
+49
+64
+81
+Program ended with exit code: 0
